@@ -29,6 +29,14 @@ Type checking is setup via ty, also configured in the pyproject.toml file
 
 ### HTMX
 
+Used for front-end
 
+### AWS Lambda
+
+Really the basic serverless stack, much more is involved than just lambda.
+
+### Amazon DynamoDB
+
+Used for data persistence
 
 
