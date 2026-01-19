@@ -1,4 +1,4 @@
-# Python-htmx-lambda-base
+# python-htmx-lambda-base
 
 This project is a stub for creating new projects using the following tech stack:
 
@@ -29,7 +29,7 @@ Type checking is setup via ty, also configured in the pyproject.toml file
 
 ### HTMX
 
-Used for front-end
+Server-side, minimal js front-ends
 
 ### AWS Lambda
 
